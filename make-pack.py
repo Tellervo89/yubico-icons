@@ -47,7 +47,7 @@ def _do_gen(args):
     print(f"generated pack with {count} icons")
 
 def main():
-    parser = argparse.ArgumentParser(description="Script used to generate an Aegis Authenticator icon pack", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser = argparse.ArgumentParser(description="Script used to generate a Yubico Authenticator icon pack", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("--root", dest="root", default="", help="the root directory of the icon pack repository")
     subparsers = parser.add_subparsers()
 
