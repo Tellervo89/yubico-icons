@@ -29,7 +29,7 @@
             "issuer": [ "Grammarly" ]
         },
         {
-            "filename": "icons/ISNIC.png",
+            "filename": "icons/ISNIC.svg",
             "category": "Accounts",
             "issuer": [ "ISNIC" ]
         },
@@ -39,7 +39,7 @@
             "issuer": [ "IVPN" ]
         },
         {
-            "filename": "icons/JYU.png",
+            "filename": "icons/JYU.svg",
             "category": "Accounts",
             "issuer": [ "JYU" ]
         },
@@ -49,7 +49,7 @@
             "issuer": [ "LinkedIn" ]
         },
         {
-            "filename": "icons/Mintos.png",
+            "filename": "icons/Mintos.svg",
             "category": "Accounts",
             "issuer": [ "Mintos" ]
         },
