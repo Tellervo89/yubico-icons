@@ -8,8 +8,8 @@ import zipfile
 
 def _do_gen_def(args):
     pack = {
-        "uuid": "c1018b93-4e8c-490a-b575-30dde62a833e",
-        "name": "aegis-icons",
+        "uuid": "d052aa56-2995-11ee-be56-0242ac120002",
+        "name": "yubico-icons",
         "version": 0,
         "icons": []
     }
