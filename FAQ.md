@@ -16,6 +16,7 @@ In **other systems**, open terminal in the `/aegis-icons/` directory and execute
 
 ```
 cd /yubico-icons
+chmod +x /home/user/Downloads/yubico-icons/make-pack.py
 ./make-pack.py gen --output aegis-icons.zip --version YYYYMMDD
 ```
 <sup><i>Replace the</i> <code>YYYYMMDD</code> <i>with version number you want.</i></sup>
