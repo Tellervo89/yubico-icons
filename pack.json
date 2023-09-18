@@ -68,6 +68,16 @@
             "category": "Accounts",
             "issuer": [ "Runbox" ]
         },
+                {
+            "filename": "icons/Cal.com.svg",
+            "category": "Accounts",
+            "issuer": [ "Cal.com" ]
+        },
+                {
+            "filename": "icons/Rasperry.svg",
+            "category": "Accounts",
+            "issuer": [ "Rasperry" ]
+        },
         {
             "filename": "icons/Uber.svg",
             "category": "Accounts",
