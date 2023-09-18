@@ -1,5 +1,5 @@
 ## Download the latest release
-https://github.com/Tellervo89/yubico-icons/blob/master/releases/yubico-icons.zip
+https://github.com/Tellervo89/yubico-icons/blob/master/releases/aegis-icons.zip
 
 ## How can I make icon pack build?
 
