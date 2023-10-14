@@ -74,11 +74,6 @@
             "issuer": [ "Runbox" ]
         },
         {
-            "filename": "icons/Cal.com.svg",
-            "category": "Accounts",
-            "issuer": [ "Cal.com" ]
-        },
-        {
             "filename": "icons/Raspberry.svg",
             "category": "Accounts",
             "issuer": [ "Rasbperry" ]
