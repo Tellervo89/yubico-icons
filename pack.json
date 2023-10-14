@@ -24,6 +24,11 @@
             "issuer": [ "GitHub" ]
         },
         {
+            "filename": "icons/Cal.com.svg",
+            "category": "Accounts",
+            "issuer": [ "Cal.com" ]
+        },
+        {
             "filename": "icons/Grammarly.svg",
             "category": "Accounts",
             "issuer": [ "Grammarly" ]
@@ -68,15 +73,20 @@
             "category": "Accounts",
             "issuer": [ "Runbox" ]
         },
-                {
+        {
             "filename": "icons/Cal.com.svg",
             "category": "Accounts",
             "issuer": [ "Cal.com" ]
         },
-                {
-            "filename": "icons/Rasperry.svg",
+        {
+            "filename": "icons/Rasbperry.svg",
             "category": "Accounts",
-            "issuer": [ "Rasperry" ]
+            "issuer": [ "Rasbperry" ]
+        },
+        {
+            "filename": "icons/Notesnook.svg",
+            "category": "Accounts",
+            "issuer": [ "Notesnook" ]
         },
         {
             "filename": "icons/Uber.svg",
