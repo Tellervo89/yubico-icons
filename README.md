@@ -13,7 +13,7 @@ First, clone / fork the git repo or [download the repo as ZIP](https://github.co
 On **Linux**, open terminal in the `/aegis-icons/` directory and execute this command:
 
 ```
-cd /yubico-icons
+cd /aegis-icons
 chmod +x /home/user/Downloads/yubico-icons/make-pack.py
 ./make-pack.py gen --output aegis-icons.zip --version YYYYMMDD
 ```
