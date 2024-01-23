@@ -29,6 +29,11 @@
             "issuer": [ "Cal.com" ]
         },
         {
+            "filename": "icons/deSEC.svg",
+            "category": "Accounts",
+            "issuer": [ "deSEC" ]
+        },
+        {
             "filename": "icons/Grammarly.svg",
             "category": "Accounts",
             "issuer": [ "Grammarly" ]
