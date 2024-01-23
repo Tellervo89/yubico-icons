@@ -8,14 +8,11 @@ https://github.com/Tellervo89/yubico-icons/blob/master/releases/aegis-icons.zip
 
 *Requirements: [Python version 3 (and up)](https://www.python.org/downloads/) installed.*
 
-First, clone / fork the git repo or [download the repo as ZIP](https://github.com/aegis-icons/aegis-icons/archive/refs/heads/master.zip) (unzip the ZIP file, if you download it as ZIP).
-
-On **Linux**, open terminal in the `/aegis-icons/` directory and execute this command:
-
 ```
-cd /aegis-icons
-chmod +x /home/user/Downloads/yubico-icons/make-pack.py
-./make-pack.py gen --output aegis-icons.zip --version YYYYMMDD
+git clone https://github.com/Tellervo89/yubico-icons
+cd ~/yubico-icons
+chmod +x /home/user/yubico-icons/make-pack.py
+./make-pack.py gen --output yubico-icons.zip --version YYYYMMDD
 ```
 <sup><i>Replace the</i> <code>YYYYMMDD</code> <i>with version number you want.</i></sup>
 
