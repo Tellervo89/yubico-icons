@@ -19,6 +19,11 @@
             "issuer": [ "Binance" ]
         },
         {
+            "filename": "icons/No-IP.svg",
+            "category": "Accounts",
+            "issuer": [ "No-IP" ]
+        },
+        {
             "filename": "icons/GitHub.svg",
             "category": "Accounts",
             "issuer": [ "GitHub" ]
