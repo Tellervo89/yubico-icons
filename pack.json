@@ -92,15 +92,11 @@
             "filename": "icons/Notesnook.svg",
             "category": "Accounts",
             "issuer": [ "Notesnook" ]
-        {
-            "filename": "icons/Temu.svg",
-            "category": "Accounts",
-            "issuer": [ "Temu" ]
         },
         {
             "filename": "icons/Uber.svg",
             "category": "Accounts",
             "issuer": [ "Uber" ]
         }
-        ]
+    ]
 }
