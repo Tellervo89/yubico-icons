@@ -79,6 +79,11 @@
             "issuer": [ "pCloud" ]
         },
         {
+            "filename": "icons/Temu.svg",
+            "category": "Accounts",
+            "issuer": [ "Temu" ]
+        },
+        {
             "filename": "icons/Runbox.svg",
             "category": "Accounts",
             "issuer": [ "Runbox" ]
