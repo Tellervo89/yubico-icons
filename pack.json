@@ -99,6 +99,21 @@
             "issuer": [ "Notesnook" ]
         },
         {
+            "filename": "icons/eBay.svg",
+            "category": "Accounts",
+            "issuer": [ "eBay" ]
+        },  
+        {
+            "filename": "icons/ORCID.svg",
+            "category": "Accounts",
+            "issuer": [ "ORCID" ]
+        },
+        {
+            "filename": "icons/OSF.svg",
+            "category": "Accounts",
+            "issuer": [ "OSF" ]
+        },
+        {
             "filename": "icons/Uber.svg",
             "category": "Accounts",
             "issuer": [ "Uber" ]
