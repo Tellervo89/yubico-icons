@@ -69,6 +69,11 @@
             "issuer": [ "Mintos" ]
         },
         {
+            "filename": "icons/Monica.svg",
+            "category": "Accounts",
+            "issuer": [ "Monica" ]
+        },
+        {
             "filename": "icons/PayPal.svg",
             "category": "Accounts",
             "issuer": [ "PayPal" ]
@@ -112,6 +117,11 @@
             "filename": "icons/OSF.svg",
             "category": "Accounts",
             "issuer": [ "OSF" ]
+        },
+        {
+            "filename": "icons/Lynx.svg",
+            "category": "Accounts",
+            "issuer": [ "Lynx" ]
         },
         {
             "filename": "icons/Uber.svg",
