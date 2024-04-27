@@ -124,6 +124,11 @@
             "issuer": [ "Lynx" ]
         },
         {
+            "filename": "icons/Bookstack.svg",
+            "category": "Accounts",
+            "issuer": [ "Bookstack" ]
+        },
+        {
             "filename": "icons/Uber.svg",
             "category": "Accounts",
             "issuer": [ "Uber" ]
