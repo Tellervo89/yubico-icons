@@ -129,6 +129,11 @@
             "issuer": [ "Bookstack" ]
         },
         {
+            "filename": "icons/Strato.svg",
+            "category": "Accounts",
+            "issuer": [ "Strato" ]
+        },
+        {
             "filename": "icons/Uber.svg",
             "category": "Accounts",
             "issuer": [ "Uber" ]
