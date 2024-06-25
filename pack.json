@@ -137,11 +137,11 @@
             "filename": "icons/Uber.svg",
             "category": "Accounts",
             "issuer": [ "Uber" ]
-        }
+        },
         {
             "filename": "icons/noyb.svg",
             "category": "Accounts",
             "issuer": [ "noyb" ]
-        },
+        }
     ]
 }
